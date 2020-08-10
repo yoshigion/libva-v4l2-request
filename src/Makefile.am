@@ -42,7 +42,7 @@ v4l2_request_drv_video_la_SOURCES = request.c \
 	image.h \
 	utils.c \
 	utils.h \
-	tiled_yuv.S \
+	tiled_yuv.c \
 	tiled_yuv.h \
 	video.c \
 	video.h \
